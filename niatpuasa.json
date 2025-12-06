@@ -1,0 +1,54 @@
+{
+  "niat_puasa": [
+    {
+      "id": 1,
+      "judul": "Niat Puasa Ramadhan",
+      "kategori": "Wajib",
+      "icon": "nights_stay",
+      "arab": "نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هَذِهِ السَّنَةِ لِلّٰهِ تَعَالَى",
+      "latin": "Nawaitu shauma ghadin 'an adā’i fardhi syahri ramadhāna hādzihis-sanati lillāhi ta‘ālā",
+      "arti": "Saya niat berpuasa esok hari untuk menunaikan kewajiban puasa bulan Ramadhan tahun ini karena Allah Ta'ala.",
+      "tips": "Niat puasa dibaca pada malam hari sebelum imsak atau sebelum terbit fajar."
+    },
+    {
+      "id": 2,
+      "judul": "Niat Puasa Senin",
+      "kategori": "Sunnah",
+      "icon": "wb_sunny",
+      "arab": "نَوَيْتُ صَوْمَ يَوْمِ الاِثْنَيْنِ سُنَّةً لِلّٰهِ تَعَالَى",
+      "latin": "Nawaitu shauma yaumil itsnaini sunnatan lillāhi ta‘ālā",
+      "arti": "Saya niat puasa hari Senin sunnah karena Allah Ta’ala.",
+      "tips": "Puasa Senin sangat dianjurkan karena hari Senin adalah hari kelahiran Rasulullah ﷺ."
+    },
+    {
+      "id": 3,
+      "judul": "Niat Puasa Kamis",
+      "kategori": "Sunnah",
+      "icon": "calendar_today",
+      "arab": "نَوَيْتُ صَوْمَ يَوْمِ الْخَمِيسِ سُنَّةً لِلّٰهِ تَعَالَى",
+      "latin": "Nawaitu shauma yaumil khamiisi sunnatan lillāhi ta‘ālā",
+      "arti": "Saya niat puasa hari Kamis sunnah karena Allah Ta’ala.",
+      "tips": "Puasa Kamis merupakan amalan sunnah yang mengikuti kebiasaan Rasulullah ﷺ."
+    },
+    {
+      "id": 4,
+      "judul": "Niat Puasa Sunnah",
+      "kategori": "Sunnah",
+      "icon": "wb_sunny",
+      "arab": "نَوَيْتُ صَوْمَ غَدٍ عَنْ تَطَوُّعٍ لِلّٰهِ تَعَالَى",
+      "latin": "Nawaitu shauma ghadin ‘an tatawwu’in lillāhi ta‘ālā",
+      "arti": "Saya niat puasa sunnah esok hari karena Allah Ta’ala.",
+      "tips": "Puasa sunnah bisa dilakukan kapan saja, seperti Senin-Kamis atau Ayyamul Bidh."
+    },
+    {
+      "id": 5,
+      "judul": "Niat Puasa Ayyamul Bidh",
+      "kategori": "Sunnah",
+      "icon": "wb_sunny",
+      "arab": "نَوَيْتُ صَوْمَ أَيَّامِ الْبِيْضِ سُنَّةً لِلّٰهِ تَعَالَى",
+      "latin": "Nawaitu shauma ayyamil bidh sunnatan lillāhi ta‘ālā",
+      "arti": "Saya niat puasa Ayyamul Bidh sunnah karena Allah Ta’ala.",
+      "tips": "Ayyamul Bidh dilakukan setiap tanggal 13–15 bulan Hijriah."
+    }
+  ]
+}
